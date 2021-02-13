@@ -1,0 +1,5 @@
+1 Qual  a  utilidade  do  aprendizado  do  uso  deponteiro para aplicacoes em engenharia?
+
+Ponteiros tem uma aplicabilidade bastante interessante para programas em sistemas embarcados, 
+permite maior portabilidade, flexibilidade na manipulacao de variaveis em partes distintas do 
+programa, controle no uso de memória etc.
