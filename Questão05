@@ -1,0 +1,54 @@
+5. Determine  o  que  será  mostrado  pelo  seguinte  programa  (compile-o,  execute-o  e  
+verifique  se foram obtidas as respostas esperadas).
+
+(a)
+esperado: 10;
+obtido: 20;
+
+(b)
+esperado: 29.0;
+obtido: 29.0;
+
+(c)
+esperado: P;
+obtido: P;
+
+(d)
+esperado: e;
+obtido: e;
+
+(e)
+esperado: P;
+obtido: P;
+
+(f)
+esperado: e;
+obtido: e;
+
+(g)
+esperado: n; 
+obtido: t;
+
+(h) 
+esperado: 31; 
+obtido:  31;
+
+(i)
+esperado: 45;
+obtido: 45;
+
+(j)
+esperado: 31;
+obtido: 31;
+
+(l)
+esperado: algum lixo de memória
+obtido: 6422224
+
+(m)
+esperado: 45
+obtido: 45
+
+(n)
+esperado: 45
+obtido: 45
