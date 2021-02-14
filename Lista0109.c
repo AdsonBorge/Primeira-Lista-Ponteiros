@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Resposta:
 //1º código: imprime valores do vetor vet.
-//2º código: imprime o hexadecimal referente aos endere ̧cos de mem ́oria do vetor.
+//2º código: imprime o hexadecimal referente aos enderecos de memoria do vetor.
 
 void chamaValor(){
     int vet[] = {4,9,13};
@@ -20,7 +21,6 @@ void chamaEndereco(){
 }
 
 int main(){
-
     chamaEndereco();
     chamaValor();   
 }
