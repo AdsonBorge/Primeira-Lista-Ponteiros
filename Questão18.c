@@ -87,7 +87,7 @@ printf("\n");
 }
 
 printf ("\n");
-printf ("A matriz B e': \n");
+printf ("A matriz C e': \n");
 
 for (i = 0; i < nla; i++){
     for (j = 0; j < ncb; j++){
