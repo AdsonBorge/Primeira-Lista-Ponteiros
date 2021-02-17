@@ -7,3 +7,4 @@ Professor: Agostinho Brito;
 Turmar: DCA0803 - PROGRAMACAO AVANCADA - T02;
 Curso: Engenharia Elétrica;
 Aluno: Adson Pinheiro Borges Câmara.
+Aluno: Everton Cordeiro da Paz.
