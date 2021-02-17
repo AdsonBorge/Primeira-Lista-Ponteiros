@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+//Colocamos para sortear valores, a fim de facilitar testes futuros
 void multMat(int **matA, int **matB, int **matC, int nla, int ncalb, int ncb){
 
 int soma = 0;
