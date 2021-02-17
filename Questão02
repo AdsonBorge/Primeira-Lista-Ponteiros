@@ -5,9 +5,12 @@ int *p, *q;
 p = &i;
 q = &j;
 
-Determine o valor das seguintes expressões:
+// Nas linhas 5 e 6, só é possivel a operação porque estamos armazenando o endereço das variaveis na 
+dentro das variaveis 'p' e 'q'//
 
-p == &i:
+ Determine o valor das seguintes expressões
+
+p == &i
 Verdadeiro.
 
 *p - *q:
