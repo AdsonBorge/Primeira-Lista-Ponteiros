@@ -53,8 +53,8 @@ for(i = 1; i < ncalb; i++){
    matB[i] = matB[i - 1] + ncb;
 }
 
-for (i = 0; i < nla; i++){
-    for (j = 0; j < ncalb; j++){
+for (i = 0; i < ncalb; i++){
+    for (j = 0; j < ncb; j++){
         matB[i][j] = rand() % max + min;
     }
 }
