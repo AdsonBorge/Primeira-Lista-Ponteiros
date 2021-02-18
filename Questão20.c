@@ -27,5 +27,6 @@ int main(void)
 
     t1 = clock() - t1; 
     printf("%f segundos", ((float)t1)/CLOCKS_PER_SEC);
+
     return 0;
 }
