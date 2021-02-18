@@ -12,6 +12,7 @@ float ordenaVet(int n, float *vetor, float aux){
     vetor = malloc(n*sizeof(float));
     printf("\n");
 
+    
         //Laço para inserção de valores
 
         for(int i = 0; i < n; i++){
