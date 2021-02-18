@@ -11,6 +11,7 @@ e. coisas[4][4] = aloha[3]; VÁLIDO
 f. coisas[5] = aloha; INVÁLIDO
 g. pf = value; VÁLIDO
 h. pf = aloha; VÁLIDO
+
 */
 
 int main(){
