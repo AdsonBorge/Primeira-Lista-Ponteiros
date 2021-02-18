@@ -8,6 +8,7 @@ verifique  se foram obtidas as respostas esperadas).
 (a)
 esperado: 10;
 obtido: 20;
+/ p1 primeiro aponta para a referencia do valor, depois o *p1 aponta para um valor inteiro, por isso a diferença. 
 
 (b)
 esperado: 29.0;
@@ -52,6 +53,7 @@ obtido: 6422224
 (m)
 esperado: 45
 obtido: 45
+
 
 (n)
 esperado: 45
