@@ -7,5 +7,3 @@ na memória.
 endereço. 
   Esse artifício utilizado para guardar trechos do código, indicando qual função será executada.
 Em C, o endereço de uma função é acessível ao programador através de uma variável do tipo ponteiro para função.
-
-.
