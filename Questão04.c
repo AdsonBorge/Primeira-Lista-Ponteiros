@@ -12,6 +12,8 @@ g. q = *p; ILEGAL
 h. i = (*p) + *q; LEGAL
 */
 
+// Quando usamos o '*' estamos um ponteiro que aponta para um determinad endereço de memoria. Ja quando usamos '&' usamos apenas como uma referencia, impossibilitanto de fazer alterações.//
+
 //Compilação de código para correção.
 int main(){
 
