@@ -14,6 +14,7 @@ Inválida, o endereço 'p' não pode receber um valor inteiro.
 
 p = mat;
 Inválida, endereço 'p' não pode receber valor inteiro.
+se fosse por referencia, provavelmente aprontaria para o resultado. 
 
 x = (*mat);
 Válida, permite que x receba o primeiro valor do vetor mat.
