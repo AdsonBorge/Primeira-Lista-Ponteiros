@@ -20,7 +20,8 @@ O algoritmo usado por essa função compara pares de elementos pela chamada de u
 A função não retorna nenhum valor, mas modifica o  
 
 A ordem dos elementos equivalentes é indefinida.
-    */
+ 
+ */
 
 
    // A função comparar recebe dois ponteiros constantes
