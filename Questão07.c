@@ -5,7 +5,7 @@
 
 Resposta:
 *(pulo + 2)
-
+Aponta  para o 3° valor do vetor
 */
 
 int main(){
