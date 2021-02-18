@@ -5,5 +5,6 @@ e escreva um pequeno programa exemplificando o uso deste recurso.
 na memória.
   Nesse sentido, a partir de ponteiros é possível referenciar um trecho de código que contém uma função, seu 
 endereço. 
+
   Esse artifício utilizado para guardar trechos do código, indicando qual função será executada.
 Em C, o endereço de uma função é acessível ao programador através de uma variável do tipo ponteiro para função.
